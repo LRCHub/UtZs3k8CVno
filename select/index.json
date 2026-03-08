@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Slow Bloom",
+  "base_artist": "ぶいすぽっ！、如月れん",
+  "createdAt": "2026-03-08T12:44:55.832481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slow Bloom",
+      "artist": "The Home Team",
+      "has_synced": true,
+      "path": "select/01_Slow_Bloom_The_Home_Team.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slow Bloom",
+      "artist": "The Home Team (4)",
+      "has_synced": true,
+      "path": "select/02_Slow_Bloom_The_Home_Team_(4).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slow Bloom",
+      "artist": "air hunger",
+      "has_synced": true,
+      "path": "select/03_Slow_Bloom_air_hunger.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "44 Slow Bloom",
+      "artist": "air hunger",
+      "has_synced": true,
+      "path": "select/04_44_Slow_Bloom_air_hunger.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slow Bloom [Explicit]",
+      "artist": "The Home Team",
+      "has_synced": true,
+      "path": "select/05_Slow_Bloom_[Explicit]_The_Home_Team.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slow Bloom",
+      "artist": "ぶいすぽっ!、如月れん",
+      "has_synced": false,
+      "path": "select/pl_01_Slow_Bloom_ぶいすぽっ!、如月れん.txt"
+    }
+  ]
+}
